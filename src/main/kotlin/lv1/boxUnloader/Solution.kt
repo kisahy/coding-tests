@@ -1,4 +1,4 @@
-package com.kisahy.lv1.BoxUnloader
+package lv1.boxUnloader
 
 class Solution {
     fun solution(n: Int, w: Int, num: Int): Int {

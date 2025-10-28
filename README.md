@@ -7,4 +7,4 @@
 
 |Level|문제명|링크|
 |-----|-----|--|
-|Lv1|택배 상자 꺼내기|[BoxUnloader](src/main/kotlin/lv1/BoxUnloader/README.md)|
+|Lv1|택배 상자 꺼내기|[BoxUnloader](src/main/kotlin/lv1/boxUnloader/README.md)|
