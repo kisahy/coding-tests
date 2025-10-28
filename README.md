@@ -5,6 +5,7 @@
 
 ## 문제 리스트
 
-|Level|문제명|링크|
-|-----|-----|--|
-|Lv1|택배 상자 꺼내기|[BoxUnloader](src/main/kotlin/lv1/boxUnloader/README.md)|
+|Level| 문제명       | 링크                                                         |
+|-----|-----------|------------------------------------------------------------|
+|Lv1| 택배 상자 꺼내기 | [BoxUnloader](src/main/kotlin/lv1/boxUnloader/README.md)   |
+|Lv1| 유연근무제     | [FlexibleWork](src/main/kotlin/lv1/flexibleWork/README.md) |
