@@ -1,3 +1,5 @@
+package lv1
+
 import lv1.boxUnloader.Solution
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
