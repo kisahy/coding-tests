@@ -11,3 +11,4 @@
 |Lv1| 택배 상자 꺼내기   | [BoxUnloader](src/main/kotlin/lv1/boxUnloader/README.md)           |
 |Lv1| 유연근무제       | [FlexibleWork](src/main/kotlin/lv1/flexibleWork/README.md)         |
 |Lv1| 가장 많이 받은 선물 | [MostReceivedGift](src/main/kotlin/lv1/mostReceivedGift/README.md) |
+|Lv1| 달리기 경주      | [RunningRace](src/main/kotlin/lv1/runningRace/README.md)           |
