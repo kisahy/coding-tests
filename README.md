@@ -6,10 +6,11 @@
 
 ## 문제 리스트
 
-|Level| 문제명         | 링크                                                                 |
-|-----|-------------|--------------------------------------------------------------------|
-|Lv1| 택배 상자 꺼내기   | [BoxUnloader](src/main/kotlin/lv1/boxUnloader/README.md)           |
-|Lv1| 유연근무제       | [FlexibleWork](src/main/kotlin/lv1/flexibleWork/README.md)         |
-|Lv1| 가장 많이 받은 선물 | [MostReceivedGift](src/main/kotlin/lv1/mostReceivedGift/README.md) |
-|Lv1| 달리기 경주      | [RunningRace](src/main/kotlin/lv1/runningRace/README.md)           |
-|Lv1| 추억점수        | [MemoryScore](src/main/kotlin/lv1/memoryScore/README.md)           |
+| Level | 문제명          | 링크                                                                               |
+|-------|--------------|----------------------------------------------------------------------------------|
+| Lv1   | 택배 상자 꺼내기    | [BoxUnloader](src/main/kotlin/lv1/boxUnloader/README.md)                         |
+| Lv1   | 유연근무제        | [FlexibleWork](src/main/kotlin/lv1/flexibleWork/README.md)                       |
+| Lv1   | 가장 많이 받은 선물  | [MostReceivedGift](src/main/kotlin/lv1/mostReceivedGift/README.md)               |
+| Lv1   | 달리기 경주       | [RunningRace](src/main/kotlin/lv1/runningRace/README.md)                         |
+| Lv1   | 추억점수         | [MemoryScore](src/main/kotlin/lv1/memoryScore/README.md)                         |
+| Lv2   | 뒤에 있는 큰 수 찾기 | [NextGreaterNumberFinder](src/main/kotlin/lv2/nextGreaterNumberFinder/README.md) |
