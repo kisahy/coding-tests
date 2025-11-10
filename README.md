@@ -15,3 +15,4 @@
 | Lv1   | 추억점수         | [MemoryScore](src/main/kotlin/lv1/memoryScore/README.md)                         |
 | Lv2   | 뒤에 있는 큰 수 찾기 | [NextGreaterNumberFinder](src/main/kotlin/lv2/nextGreaterNumberFinder/README.md) |
 | Lv2   | 숫자 변환하기      | [NumberTransformer](src/main/kotlin/lv2/numberTransformer/README.md)             |
+| Lv3   | 봉인된 주문       | [BannedSpell](src/main/kotlin/lv3/bannedSpell/README.md)                         |
