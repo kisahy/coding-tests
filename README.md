@@ -12,9 +12,11 @@
 | Lv1   | 유연근무제           | [FlexibleWork](src/main/kotlin/lv1/flexibleWork/README.md)                       |
 | Lv1   | 가장 많이 받은 선물     | [MostReceivedGift](src/main/kotlin/lv1/mostReceivedGift/README.md)               |
 | Lv1   | 달리기 경주          | [RunningRace](src/main/kotlin/lv1/runningRace/README.md)                         |
+| Lv1   | 문자열다루기 기본       | [BasicStringHandler](src/main/kotlin/lv1/basicStringHandler/README.md)           |
 | Lv1   | 문자열 내 마음대로 정렬하기 | [CustomStringSorter](src/main/kotlin/lv1/customStringSorter/README.md)           |
 | Lv1   | 문자열 내림차순으로 배치하기 | [DescendingStringSorter](src/main/kotlin/lv1/descendingStringSorter/README.md)   |
 | Lv1   | 추억점수            | [MemoryScore](src/main/kotlin/lv1/memoryScore/README.md)                         |
+| Lv1   | 공원 산책           | [ParkWorking](src/main/kotlin/lv1/parkWorking/README.md)                         |
 | Lv2   | 뒤에 있는 큰 수 찾기    | [NextGreaterNumberFinder](src/main/kotlin/lv2/nextGreaterNumberFinder/README.md) |
 | Lv2   | 숫자 변환하기         | [NumberTransformer](src/main/kotlin/lv2/numberTransformer/README.md)             |
 | Lv3   | 봉인된 주문          | [BannedSpell](src/main/kotlin/lv3/bannedSpell/README.md)                         |
